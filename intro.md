@@ -7,6 +7,8 @@ To create a Markdown page in GitHub, first create your repository. Then, click �
 
 Example: “file.md”
 
+---
+
 ## Click on any link below to learn more!
 
 [README]() 	
