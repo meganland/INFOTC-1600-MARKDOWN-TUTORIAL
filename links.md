@@ -26,7 +26,7 @@ Click on any link below to learn more!
 
 [IMAGES]()
 
-[README]()
+[README](https://github.com/meganland/INFOTC-1600-MARKDOWN-TUTORIAL/blob/main/README.md)
 
 [EMOJIS](https://github.com/meganland/INFOTC-1600-MARKDOWN-TUTORIAL/blob/main/emojis.md)
 
