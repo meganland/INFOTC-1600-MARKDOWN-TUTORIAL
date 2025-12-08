@@ -6,3 +6,17 @@ Markdown is one of the world’s most popular markup languages. It is easily con
 To create a Markdown page in GitHub, first create your repository. Then, click “Add File” > “Create new file”. You can name your file whatever you desire, but include “.md” after it. 
 
 Example: “file.md”
+
+## Click on any link below to learn more!
+
+[README]() 	
+
+[HEADINGS]()
+
+[EMPHASIS]()
+
+[LISTS]() 	
+
+[IMAGES]()
+
+[LINKS]()
