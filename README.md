@@ -7,7 +7,7 @@ My target audience is anyone who needs to write in Markdown for documentation, b
 
 ---
 
-## Click on any link to learn more!
+## Click on any link below to learn more!
 
 [INTRO]() 	
 
