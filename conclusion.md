@@ -22,4 +22,4 @@ Goodluck!
 
 [LINKS]()
 
-[EMOJIS]()
+[EMOJIS](https://github.com/meganland/INFOTC-1600-MARKDOWN-TUTORIAL/blob/main/emojis.md)
