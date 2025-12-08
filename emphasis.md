@@ -20,7 +20,7 @@ Single asterisks and single underlines before and after your text will *italiciz
 
 ---
 
-Click on the links below to learn more!
+## Click on any link below to learn more!
 
 [INTRO]() 	
 
