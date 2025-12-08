@@ -22,7 +22,7 @@ To produce the follow image below, you would use this syntax
 
 [LISTS]() 	
 
-[README]()
+[README](https://github.com/meganland/INFOTC-1600-MARKDOWN-TUTORIAL/blob/main/README.md)
 
 [LINKS]()
 
