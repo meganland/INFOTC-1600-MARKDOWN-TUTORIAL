@@ -18,7 +18,8 @@ Ex: ` ### Heading 3 ` outputs:
 ### Heading 3
 
 ---
-Click on the links below to learn mroe!
+
+## Click on any link below to learn mroe!
 
 [INTRO]() 	
 
