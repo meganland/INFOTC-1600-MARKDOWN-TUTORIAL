@@ -23,7 +23,7 @@ Ex: ` ### Heading 3 ` outputs:
 
 [INTRO]() 	
 
-[README]()
+[README](https://github.com/meganland/INFOTC-1600-MARKDOWN-TUTORIAL/blob/main/README.md)
 
 [EMPHASIS]()
 
