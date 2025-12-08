@@ -1,0 +1,33 @@
+# Headings
+Headings are marked with the Hashtag ( # ) symbol. First, put down your hashtag symbol then your text.
+
+Ex: ` # Heading `
+
+Note: The more hashtags you put before your text, the smaller the heading will be. 
+
+Ex: ` # Heading 1 ` outputs: 
+
+ # Heading 1
+ 
+Ex: ` ## Heading 2 ` outputs:
+
+## Heading 2
+
+Ex: ` ### Heading 3 ` outputs:
+
+### Heading 3
+
+---
+Click on the links below to learn mroe!
+
+[INTRO]() 	
+
+[README]()
+
+[EMPHASIS]()
+
+[LISTS]() 	
+
+[IMAGES]()
+
+[LINKS]()
