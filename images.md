@@ -25,3 +25,7 @@ To produce the follow image below, you would use this syntax
 [README]()
 
 [LINKS]()
+
+[EMOJIS](https://github.com/meganland/INFOTC-1600-MARKDOWN-TUTORIAL/blob/main/emojis.md)
+
+[CONCLUSION]()
