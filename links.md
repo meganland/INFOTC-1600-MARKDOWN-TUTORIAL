@@ -10,6 +10,8 @@ Outputs
 
 [link to CNN News](https://www.cnn.com/)
 
+Note: You can use this syntax to link between Markdown pages as well!
+
 ---
 
 Click on any link below to learn more!
