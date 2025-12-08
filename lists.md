@@ -40,7 +40,7 @@ Example
 
 Note: You can you sequential numbers, or keep all the numbers as one. EIther way, the ordered list will appear in numerical order.
 
-Example
+Example:
 ```
 1. This is the first item in the list
 1. This is the second item in the list
@@ -52,6 +52,22 @@ Outputs:
 1. This is the first item in the list
 1. This is the second item in the list
 1. This is the third item in the list
+
+---
+Note: You can also begin your ordered list at any number and follow it with ones. Markdown will start with your given number and continue to count up.
+
+Example:
+```
+98. This is this 98th item on your list
+1. This is the 99th item on your list
+1. This is the 100th item on your list.
+```
+
+Outputs:
+
+98. This is this 98th item on your list
+1. This is the 99th item on your list
+1. This is the 100th item on your list.
 
 ---
 
