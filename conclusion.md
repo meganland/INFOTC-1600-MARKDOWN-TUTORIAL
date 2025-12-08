@@ -8,7 +8,7 @@ Goodluck!
 
 ## Click on any link below to revisit!
 
-[README]()
+[README](https://github.com/meganland/INFOTC-1600-MARKDOWN-TUTORIAL/blob/main/README.md)
 
 [INTRO]() 	
 
