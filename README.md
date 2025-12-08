@@ -20,3 +20,7 @@ My target audience is anyone who needs to write in Markdown for documentation, b
 [IMAGES]()
 
 [LINKS]()
+
+[EMOJIS](https://github.com/meganland/INFOTC-1600-MARKDOWN-TUTORIAL/blob/main/emojis.md)
+
+[CONCLUSION]()
