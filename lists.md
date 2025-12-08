@@ -79,7 +79,7 @@ Click on the links below to learn more!
 
 [EMPHASIS]()
 
-[README]() 	
+[README](https://github.com/meganland/INFOTC-1600-MARKDOWN-TUTORIAL/blob/main/README.md) 	
 
 [IMAGES]()
 
