@@ -21,7 +21,7 @@ Example: “file.md”
 
 [IMAGES]()
 
-[LINKS]()
+[LINKS](https://github.com/meganland/INFOTC-1600-MARKDOWN-TUTORIAL/blob/main/links.md)
 
 [EMOJIS](https://github.com/meganland/INFOTC-1600-MARKDOWN-TUTORIAL/blob/main/emojis.md)
 
