@@ -13,7 +13,7 @@ My target audience is anyone who needs to write in Markdown for documentation, b
 
 [HEADINGS](https://github.com/meganland/INFOTC-1600-MARKDOWN-TUTORIAL/blob/main/headings.md)
 
-[EMPHASIS]()
+[EMPHASIS](https://github.com/meganland/INFOTC-1600-MARKDOWN-TUTORIAL/blob/main/emphasis.md)
 
 [LISTS](https://github.com/meganland/INFOTC-1600-MARKDOWN-TUTORIAL/blob/main/lists.md) 	
 
