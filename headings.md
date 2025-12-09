@@ -29,7 +29,7 @@ Ex: ` ### Heading 3 ` outputs:
 
 [LISTS](https://github.com/meganland/INFOTC-1600-MARKDOWN-TUTORIAL/blob/main/lists.md) 	
 
-[IMAGES]()
+[IMAGES](https://github.com/meganland/INFOTC-1600-MARKDOWN-TUTORIAL/blob/main/images.md)
 
 [LINKS](https://github.com/meganland/INFOTC-1600-MARKDOWN-TUTORIAL/blob/main/links.md)
 
