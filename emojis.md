@@ -27,4 +27,4 @@ Outputs:
 
 [README](https://github.com/meganland/INFOTC-1600-MARKDOWN-TUTORIAL/blob/main/README.md)
 
-[CONCLUSION]()
+[CONCLUSION](https://github.com/meganland/INFOTC-1600-MARKDOWN-TUTORIAL/blob/main/conclusion.md)
