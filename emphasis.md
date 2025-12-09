@@ -36,5 +36,5 @@ Single asterisks and single underlines before and after your text will *italiciz
 
 [EMOJIS](https://github.com/meganland/INFOTC-1600-MARKDOWN-TUTORIAL/blob/main/emojis.md)
 
-[CONCLUSION]()
+[CONCLUSION](https://github.com/meganland/INFOTC-1600-MARKDOWN-TUTORIAL/blob/main/conclusion.md)
 
