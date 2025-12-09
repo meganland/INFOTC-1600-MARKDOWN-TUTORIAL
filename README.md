@@ -19,7 +19,7 @@ My target audience is anyone who needs to write in Markdown for documentation, b
 
 [IMAGES]()
 
-[LINKS]()https://github.com/meganland/INFOTC-1600-MARKDOWN-TUTORIAL/blob/main/links.md
+[LINKS](https://github.com/meganland/INFOTC-1600-MARKDOWN-TUTORIAL/blob/main/links.md)
 
 [EMOJIS](https://github.com/meganland/INFOTC-1600-MARKDOWN-TUTORIAL/blob/main/emojis.md)
 
