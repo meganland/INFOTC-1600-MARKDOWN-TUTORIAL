@@ -15,7 +15,7 @@ My target audience is anyone who needs to write in Markdown for documentation, b
 
 [EMPHASIS]()
 
-[LISTS]() 	
+[LISTS](https://github.com/meganland/INFOTC-1600-MARKDOWN-TUTORIAL/blob/main/lists.md) 	
 
 [IMAGES]()
 
