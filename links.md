@@ -22,7 +22,7 @@ Click on any link below to learn more!
 
 [EMPHASIS]()
 
-[LISTS]() 	
+[LISTS](https://github.com/meganland/INFOTC-1600-MARKDOWN-TUTORIAL/blob/main/lists.md) 	
 
 [IMAGES]()
 
