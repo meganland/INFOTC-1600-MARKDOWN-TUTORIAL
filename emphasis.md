@@ -24,7 +24,7 @@ Single asterisks and single underlines before and after your text will *italiciz
 
 [INTRO]() 	
 
-[HEADINGS]()
+[HEADINGS](https://github.com/meganland/INFOTC-1600-MARKDOWN-TUTORIAL/blob/main/headings.md)
 
 [README](https://github.com/meganland/INFOTC-1600-MARKDOWN-TUTORIAL/blob/main/README.md)
 
