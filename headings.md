@@ -25,7 +25,7 @@ Ex: ` ### Heading 3 ` outputs:
 
 [README](https://github.com/meganland/INFOTC-1600-MARKDOWN-TUTORIAL/blob/main/README.md)
 
-[EMPHASIS]()
+[EMPHASIS](https://github.com/meganland/INFOTC-1600-MARKDOWN-TUTORIAL/blob/main/emphasis.md)
 
 [LISTS](https://github.com/meganland/INFOTC-1600-MARKDOWN-TUTORIAL/blob/main/lists.md) 	
 
