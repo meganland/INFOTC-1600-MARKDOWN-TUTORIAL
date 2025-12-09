@@ -35,4 +35,4 @@ Ex: ` ### Heading 3 ` outputs:
 
 [EMOJIS](https://github.com/meganland/INFOTC-1600-MARKDOWN-TUTORIAL/blob/main/emojis.md)
 
-[CONCLUSION]()
+[CONCLUSION](https://github.com/meganland/INFOTC-1600-MARKDOWN-TUTORIAL/blob/main/conclusion.md)
