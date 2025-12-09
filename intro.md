@@ -13,7 +13,7 @@ Example: “file.md”
 
 [README](https://github.com/meganland/INFOTC-1600-MARKDOWN-TUTORIAL/blob/main/README.md) 	
 
-[HEADINGS]()
+[HEADINGS](https://github.com/meganland/INFOTC-1600-MARKDOWN-TUTORIAL/blob/main/headings.md)
 
 [EMPHASIS]()
 
