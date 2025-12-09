@@ -23,7 +23,7 @@ Outputs:
 
 [IMAGES]()
 
-[LINKS]()
+[LINKS](https://github.com/meganland/INFOTC-1600-MARKDOWN-TUTORIAL/blob/main/links.md)
 
 [README](https://github.com/meganland/INFOTC-1600-MARKDOWN-TUTORIAL/blob/main/README.md)
 
