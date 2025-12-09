@@ -21,7 +21,7 @@ Ex: ` ### Heading 3 ` outputs:
 
 ## Click on any link below to learn mroe!
 
-[INTRO]() 	
+[INTRO](https://github.com/meganland/INFOTC-1600-MARKDOWN-TUTORIAL/blob/main/intro.md) 	
 
 [README](https://github.com/meganland/INFOTC-1600-MARKDOWN-TUTORIAL/blob/main/README.md)
 
