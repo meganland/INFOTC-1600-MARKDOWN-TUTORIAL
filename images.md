@@ -24,7 +24,7 @@ To produce the follow image below, you would use this syntax
 
 [README](https://github.com/meganland/INFOTC-1600-MARKDOWN-TUTORIAL/blob/main/README.md)
 
-[LINKS]()
+[LINKS](https://github.com/meganland/INFOTC-1600-MARKDOWN-TUTORIAL/blob/main/links.md)
 
 [EMOJIS](https://github.com/meganland/INFOTC-1600-MARKDOWN-TUTORIAL/blob/main/emojis.md)
 
