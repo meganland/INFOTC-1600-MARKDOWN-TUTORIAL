@@ -16,7 +16,7 @@ To produce the follow image below, you would use this syntax
 
 [INTRO]() 	
 
-[HEADINGS]()
+[HEADINGS](https://github.com/meganland/INFOTC-1600-MARKDOWN-TUTORIAL/blob/main/headings.md)
 
 [EMPHASIS]()
 
