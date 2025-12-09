@@ -10,6 +10,7 @@ Outputs:
 😢 😉 😄 🐱 🦑
 
 Note: Not all platforms support emoji shortcodes, but GitHub does!
+
 ---
 
 ## Click on any link below to learn more!
