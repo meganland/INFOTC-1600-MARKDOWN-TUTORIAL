@@ -24,7 +24,7 @@ Click on any link below to learn more!
 
 [LISTS](https://github.com/meganland/INFOTC-1600-MARKDOWN-TUTORIAL/blob/main/lists.md) 	
 
-[IMAGES]()
+[IMAGES](https://github.com/meganland/INFOTC-1600-MARKDOWN-TUTORIAL/blob/main/images.md)
 
 [README](https://github.com/meganland/INFOTC-1600-MARKDOWN-TUTORIAL/blob/main/README.md)
 
