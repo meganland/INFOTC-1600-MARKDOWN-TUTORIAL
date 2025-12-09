@@ -13,7 +13,7 @@ Outputs:
 
 ## Click on any link below to learn more!
 
-[INTRO]() 	
+[INTRO](https://github.com/meganland/INFOTC-1600-MARKDOWN-TUTORIAL/blob/main/intro.md) 	
 
 [HEADINGS](https://github.com/meganland/INFOTC-1600-MARKDOWN-TUTORIAL/blob/main/headings.md)
 
