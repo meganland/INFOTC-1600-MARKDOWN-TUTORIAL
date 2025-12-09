@@ -20,7 +20,7 @@ To produce the follow image below, you would use this syntax
 
 [EMPHASIS]()
 
-[LISTS]() 	
+[LISTS](https://github.com/meganland/INFOTC-1600-MARKDOWN-TUTORIAL/blob/main/lists.md) 	
 
 [README](https://github.com/meganland/INFOTC-1600-MARKDOWN-TUTORIAL/blob/main/README.md)
 
