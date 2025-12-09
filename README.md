@@ -17,7 +17,7 @@ My target audience is anyone who needs to write in Markdown for documentation, b
 
 [LISTS](https://github.com/meganland/INFOTC-1600-MARKDOWN-TUTORIAL/blob/main/lists.md) 	
 
-[IMAGES]()
+[IMAGES](https://github.com/meganland/INFOTC-1600-MARKDOWN-TUTORIAL/blob/main/images.md)
 
 [LINKS](https://github.com/meganland/INFOTC-1600-MARKDOWN-TUTORIAL/blob/main/links.md)
 
