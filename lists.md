@@ -81,7 +81,7 @@ Click on the links below to learn more!
 
 [README](https://github.com/meganland/INFOTC-1600-MARKDOWN-TUTORIAL/blob/main/README.md) 	
 
-[IMAGES]()
+[IMAGES](https://github.com/meganland/INFOTC-1600-MARKDOWN-TUTORIAL/blob/main/images.md)
 
 [LINKS](https://github.com/meganland/INFOTC-1600-MARKDOWN-TUTORIAL/blob/main/links.md)
 
